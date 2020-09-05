@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Tienisto/Tienisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I am CS student at Magdeburg University in Germany.
+I have experience in many aspects of the software industry - from app development to backend development.
 
-Here are some ideas to get you started:
+Here are my favorite technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Language:** Kotlin, Java, JavaScript, Dart
+- **Backend Framework:** Spring (using Kotlin)
+- **Frontend Framework:** Vue
+- **App Framework:** Flutter
+- **Database Engine:** PostgreSQL, MySQL
+
+For more information, please visit https://tienisto.com
