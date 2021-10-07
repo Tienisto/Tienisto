@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I am CS student at Magdeburg University in Germany.
+Currently I am working as an app developer in Germany.
 I have experience in many aspects of the software industry - from app development to backend development.
 
 Here are my favorite technologies sorted by interest:
