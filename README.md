@@ -5,10 +5,10 @@ I have experience in many aspects of the software industry - from app developmen
 
 Here are my favorite technologies sorted by interest:
 
-- **Programming Language:** Kotlin, Java, JavaScript, Dart
+- **Programming Language:** Dart, Kotlin, Java, TypeScript, JavaScript
 - **Backend Framework:** Spring (using Kotlin)
 - **Frontend Framework:** Vue, React
 - **App Framework:** Flutter
-- **Database Engine:** PostgreSQL, MySQL
+- **Database Engine:** Sqlite, PostgreSQL, MySQL
 
 For more information, please visit https://tienisto.com
