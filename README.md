@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Currently I am working as an app developer in Germany.
 I am main contributor for [LocalSend](https://github.com/localsend/localsend) and [slang](https://github.com/Tienisto/slang).
+
+Currently I am working as an app developer in Germany.
 
 Here are my favorite technologies sorted by interest:
 
