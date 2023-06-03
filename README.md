@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am main contributor for [LocalSend](https://github.com/localsend/localsend) and [slang](https://github.com/Tienisto/slang).
+I am creator of [LocalSend](https://github.com/localsend/localsend) and [slang](https://github.com/Tienisto/slang).
 
 Currently I am working as an app developer in Germany.
 
