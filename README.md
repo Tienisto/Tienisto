@@ -6,10 +6,10 @@ Currently I am working as an mobile app developer in Germany.
 
 Here are my favorite technologies sorted by interest:
 
-- **Programming Language:** Dart, Kotlin, Java, TypeScript, JavaScript
-- **Backend Framework:** Spring (using Kotlin)
-- **Frontend Framework:** Vue, React
-- **App Framework:** Flutter
+- **Programming Language:** Dart, Kotlin, Rust, Java, TypeScript, JavaScript
+- **Backend Framework:** Axum (Rust), Spring (Kotlin)
+- **Frontend Framework:** Vue (TypeScript), React (TypeScript)
+- **App Framework:** Flutter (Dart)
 - **Database Engine:** Sqlite, PostgreSQL, MySQL
 
 For more information, please visit https://tienisto.com
