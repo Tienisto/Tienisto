@@ -11,7 +11,7 @@ I’m passionate about building elegant, fast, and scalable apps — from open-s
 - **Programming Language:** Dart, Kotlin, Rust, Java, TypeScript, JavaScript
 - **Backend Framework:** Axum (Rust), Spring (Kotlin)
 - **Frontend Framework:** Vue (TypeScript), React (TypeScript)
-- **App Framework:** Flutter (Dart)
+- **Mobile Framework:** Flutter (Dart)
 - **Database Engine:** Sqlite, PostgreSQL, MySQL
 
 For more information, please visit https://tienisto.com
