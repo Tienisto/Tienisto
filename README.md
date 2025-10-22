@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tien Do Nam
+## 👋 Hi, I'm Tien
 
 I'm the creator of [LocalSend](https://github.com/localsend/localsend), [Sharkbench](https://github.com/sharkbench/sharkbench), and several open source libraries like [slang](https://github.com/slang-i18n/slang), and [rhttp](https://github.com/Tienisto/rhttp).
 
