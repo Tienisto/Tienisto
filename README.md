@@ -1,15 +1,8 @@
 # 👋 Hi, I'm Tien Do Nam
 
-I'm the creator of **LocalSend** – an open-source, cross-platform file-sharing app with **1M+ monthly active users**, and the founder of **Notan**, Germany’s leading grade tracking app with over **700K monthly users**.
+I'm the creator of [LocalSend](https://github.com/localsend/localsend), [Sharkbench](https://github.com/sharkbench/sharkbench), and several open source libraries like [slang](https://github.com/slang-i18n/slang), [rhttp](https://github.com/Tienisto/rhttp).
 
-I’m passionate about building elegant, fast, and scalable apps — from open-source tools to production-ready consumer platforms.  
-
-### 🧠 What I work on
-
-- **📱 Mobile Apps:** Flutter (Dart) — my favorite framework for cross-platform development  
-- **🧰 Full-Stack Systems:** Clean architecture, scalable APIs, secure local-first apps  
-- **🔒 Privacy-First Tools:** Building apps that respect user data (like LocalSend)  
-- **📈 EdTech & AI:** Making learning more structured and motivating with Notan
+I’m passionate about building elegant, fast, and scalable apps — from open-source tools to production-ready consumer platforms.
 
 ---
 
